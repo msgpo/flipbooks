@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Sean/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/javax.inject-1-981aefe1d485c4d28497c638a930d3ae10917b38.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-93cb993dd7f1487bb1df4a5c9527918ec4f68f28.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-8b177fc54b6fe5bfdc98f38c64b77262b465ae46.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/javawriter-2.5.0-f85b8652ada793494852278cf770accc12783401.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/butterknife-5.1.2-b2a536f530b5f35e95687dc9bb53945787e68dd9.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/flipbooks/app/build/intermediates/exploded-aar/flipbooks/FFmpegAndroid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="cef44d2e6a9bd7f102fb356f039b46bb3cb8a061">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/classes-0d6ab434553f4ab979a0ed17bd4dd059d90bf568.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/guava-15.0-0ad56179fb9a06017a4e38617a383852994708dc.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.2.2/fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57/dagger-compiler-1.2.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/dagger-compiler-1.2.2-f2dce4e5693d82897fd4e6fd1002b5b2000a4dcc.jar" />
+    </item>
+    <item
+        jar="/Users/Sean/flipbooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/Sean/flipbooks/app/build/intermediates/pre-dexed/debug/classes-716212b442c76d53d5314c2cc475333e6f0c8c90.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.alittlescene.flipbooks.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/mainMenuTextView"
+            android:layout_weight="0.25"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Start a Project"
+            android:id="@+id/main_start_project_btn"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.25"
+            android:textSize="30dp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="My Projects"
+            android:id="@+id/main_my_projects_btn"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.25"
+            android:textSize="30dp" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="My Account"
+            android:id="@+id/main_my_account_btn"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.25"
+            android:textSize="30dp" />
+    </LinearLayout>
+</RelativeLayout>
